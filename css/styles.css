@@ -38,6 +38,9 @@ hr{
     position: relative;
     padding-top: 100px;
 }
+.tableElement {
+	font-size: 60%;
+}
 .middle-container{
 padding: 100px;
 }
