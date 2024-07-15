@@ -25,6 +25,10 @@ h2{
 p{
   line-height: 2;
 }
+li {
+font-size: 75%;
+font-family: 'Merriweather',serif;
+}
 a{
   color: #11999E;
   font-family: 'Montserrat', sans-serif;
@@ -34,12 +38,39 @@ hr{
   border-top: 10px dotted #11999E;
   margin: 70px auto 70px auto;
 }
+.bio {
+text-align: justify;
+font-size: 50%;
+margin: 30px 20% 30px 20%;
+}
+.programLanguage {
+  color: #11999E;
+}
+.game {
+font-size: 50%;
+text-align: justify;
+margin: 5px 20% 5px 20%;
+}
+.central{
+text-align: center;
+margin: 2px 20% 2px 20%;
+}
+.hobby {
+font-size: 50%;
+text-align: center;
+}
+.programmingLanguages {
+text-align: left;
+font-size: 75%;
+margin: 2px auto 2px 50%;
+}
 .top-container{
     position: relative;
     padding-top: 100px;
 }
 .tableElement {
-	font-size: 60%;
+font-size: 50%;
+
 }
 .middle-container{
 padding: 100px;
